@@ -216,15 +216,6 @@
   "publish_at": "2026-10-16T17:00:00+05:30"
  },
  {
-  "id": "D05_E",
-  "day": 5,
-  "time": "20:00",
-  "caption": "Exam Clue की किताबों का लिंक चाहिए? नीचे कमेंट में BOOK लिखें, हम DM में लिंक भेज देंगे। (DM न आए तो linktr.ee/examclue देखें।)\n\n#ExamClue #MillionMindsEnglish #UPTGT #UPPGT #SSCCGL #Books #StudyNotes",
-  "images": 2,
-  "path": "D05_E",
-  "publish_at": "2026-10-16T20:00:00+05:30"
- },
- {
   "id": "D06_M",
   "day": 6,
   "time": "08:00",
@@ -304,15 +295,6 @@
   "images": 4,
   "path": "D07_Q",
   "publish_at": "2026-10-18T17:00:00+05:30"
- },
- {
-  "id": "D07_E",
-  "day": 7,
-  "time": "20:00",
-  "caption": "PGT सुपर रिवीज़न बैच की पूरी जानकारी (तारीख़, फ़ीस, लिंक) चाहिए? कमेंट में PGT लिखें, हम DM में भेज देंगे। [CONFIRM: बैच की तारीख़/फ़ीस/ऑफ़र की वैधता जोड़ें]\n\n#ExamClue #MillionMindsEnglish #UPPGT #PGT #Revision",
-  "images": 2,
-  "path": "D07_E",
-  "publish_at": "2026-10-18T20:00:00+05:30"
  },
  {
   "id": "D08_M",
@@ -628,5 +610,275 @@
   "images": 9,
   "path": "D14_E",
   "publish_at": "2026-10-25T20:00:00+05:30"
+ },
+ {
+  "id": "PR01",
+  "day": 1,
+  "time": "21:00",
+  "caption": "GS 30/30 Course: UPTGT, PGT, Principal Exam 2026-27 के लिए Live class और free content।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR01",
+  "publish_at": "2026-10-12T21:00:00+05:30"
+ },
+ {
+  "id": "PR02",
+  "day": 2,
+  "time": "21:00",
+  "caption": "TGT English की चारों किताबें: Masterguide (2nd Updated Edition), Micro Notes, PYQ Master Bank और 15 Practice Sets।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 5,
+  "path": "PR02",
+  "publish_at": "2026-10-13T21:00:00+05:30"
+ },
+ {
+  "id": "PR03",
+  "day": 3,
+  "time": "21:00",
+  "caption": "UPTGT English Free Test: बिल्कुल फ्री। अपनी strengths और कमज़ोरियाँ जानें, score सुधारें।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR03",
+  "publish_at": "2026-10-14T21:00:00+05:30"
+ },
+ {
+  "id": "PR04",
+  "day": 4,
+  "time": "21:00",
+  "caption": "UPTGT English Advance Batch 2026-27: Complete Literature + Grammar + Vocabulary, Live classes, Doubt solving, Recorded lectures, PDF notes, MCQs और PYQs। Million Minds English App पर।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 5,
+  "path": "PR04",
+  "publish_at": "2026-10-15T21:00:00+05:30"
+ },
+ {
+  "id": "PR05",
+  "day": 5,
+  "time": "21:00",
+  "caption": "GS 30/30 Course: UPTGT, PGT, Principal Exam 2026-27 के लिए Live class और free content।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR05",
+  "publish_at": "2026-10-16T21:00:00+05:30"
+ },
+ {
+  "id": "PR06",
+  "day": 6,
+  "time": "21:00",
+  "caption": "PGT English की तैयारी के लिए Masterguide और 15 Practice Sets।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR06",
+  "publish_at": "2026-10-17T21:00:00+05:30"
+ },
+ {
+  "id": "PR07",
+  "day": 7,
+  "time": "21:00",
+  "caption": "PGT Super Revision Batch: English (Language + Literature) + GS/GK 30 MCQs, Live + Recorded classes। आज ही शुरू करें, revision का समय कम है।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR07",
+  "publish_at": "2026-10-18T21:00:00+05:30"
+ },
+ {
+  "id": "PR08",
+  "day": 8,
+  "time": "21:00",
+  "caption": "GS 30/30 Course: UPTGT, PGT, Principal Exam 2026-27 के लिए Live class और free content।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR08",
+  "publish_at": "2026-10-19T21:00:00+05:30"
+ },
+ {
+  "id": "PR09",
+  "day": 9,
+  "time": "21:00",
+  "caption": "UPTGT (2001 से) और UPPGT (2000 से) के Solved Papers, detailed analysis और explanation के साथ।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR09",
+  "publish_at": "2026-10-20T21:00:00+05:30"
+ },
+ {
+  "id": "PR10",
+  "day": 10,
+  "time": "21:00",
+  "caption": "UPTGT English Free Test: बिल्कुल फ्री। अपनी strengths और कमज़ोरियाँ जानें, score सुधारें।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR10",
+  "publish_at": "2026-10-21T21:00:00+05:30"
+ },
+ {
+  "id": "PR11",
+  "day": 11,
+  "time": "21:00",
+  "caption": "UPTGT English Advance Batch 2026-27: Complete Literature + Grammar + Vocabulary, Live classes, Doubt solving, Recorded lectures, PDF notes, MCQs और PYQs। Million Minds English App पर।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 5,
+  "path": "PR11",
+  "publish_at": "2026-10-22T21:00:00+05:30"
+ },
+ {
+  "id": "PR12",
+  "day": 12,
+  "time": "21:00",
+  "caption": "GS 30/30 MCQs Test Series: 30 चुने हुए MCQs, time-bound practice और score analysis। Million Minds English App पर।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR12",
+  "publish_at": "2026-10-23T21:00:00+05:30"
+ },
+ {
+  "id": "PR13",
+  "day": 13,
+  "time": "21:00",
+  "caption": "UPTGT/PGT Grammar & Vocabulary Crash Course: 100 दिन, study material और recorded lectures।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR13",
+  "publish_at": "2026-10-24T21:00:00+05:30"
+ },
+ {
+  "id": "PR14",
+  "day": 14,
+  "time": "21:00",
+  "caption": "PGT Super Revision Batch: English (Language + Literature) + GS/GK 30 MCQs, Live + Recorded classes। आज ही शुरू करें, revision का समय कम है।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR14",
+  "publish_at": "2026-10-25T21:00:00+05:30"
+ },
+ {
+  "id": "PR15",
+  "day": 15,
+  "time": "21:00",
+  "caption": "GS 30/30 Course: UPTGT, PGT, Principal Exam 2026-27 के लिए Live class और free content।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR15",
+  "publish_at": "2026-10-26T21:00:00+05:30"
+ },
+ {
+  "id": "PR16",
+  "day": 16,
+  "time": "21:00",
+  "caption": "TGT English की चारों किताबें: Masterguide (2nd Updated Edition), Micro Notes, PYQ Master Bank और 15 Practice Sets।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 5,
+  "path": "PR16",
+  "publish_at": "2026-10-27T21:00:00+05:30"
+ },
+ {
+  "id": "PR17",
+  "day": 17,
+  "time": "21:00",
+  "caption": "UPTGT English Free Test: बिल्कुल फ्री। अपनी strengths और कमज़ोरियाँ जानें, score सुधारें।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR17",
+  "publish_at": "2026-10-28T21:00:00+05:30"
+ },
+ {
+  "id": "PR18",
+  "day": 18,
+  "time": "21:00",
+  "caption": "UPTGT (8000+ topicwise MCQs, 30 full-length tests) और UPPGT (6000+ topicwise MCQs, 15 full-length tests) English MCQ Test Series 2026-27, Million Minds English App पर।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR18",
+  "publish_at": "2026-10-29T21:00:00+05:30"
+ },
+ {
+  "id": "PR19",
+  "day": 19,
+  "time": "21:00",
+  "caption": "GS 30/30 Course: UPTGT, PGT, Principal Exam 2026-27 के लिए Live class और free content।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR19",
+  "publish_at": "2026-10-30T21:00:00+05:30"
+ },
+ {
+  "id": "PR20",
+  "day": 20,
+  "time": "21:00",
+  "caption": "Daily Current Affairs: YouTube पर रोज़ सुबह 7 बजे, बिल्कुल फ्री।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR20",
+  "publish_at": "2026-10-31T21:00:00+05:30"
+ },
+ {
+  "id": "PR21",
+  "day": 21,
+  "time": "21:00",
+  "caption": "PGT English की तैयारी के लिए Masterguide और 15 Practice Sets।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR21",
+  "publish_at": "2026-11-01T21:00:00+05:30"
+ },
+ {
+  "id": "PR22",
+  "day": 22,
+  "time": "21:00",
+  "caption": "GS 30/30 Course: UPTGT, PGT, Principal Exam 2026-27 के लिए Live class और free content।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR22",
+  "publish_at": "2026-11-02T21:00:00+05:30"
+ },
+ {
+  "id": "PR23",
+  "day": 23,
+  "time": "21:00",
+  "caption": "UPTGT (2001 से) और UPPGT (2000 से) के Solved Papers, detailed analysis और explanation के साथ।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR23",
+  "publish_at": "2026-11-03T21:00:00+05:30"
+ },
+ {
+  "id": "PR24",
+  "day": 24,
+  "time": "21:00",
+  "caption": "UPTGT English Advance Batch 2026-27: Complete Literature + Grammar + Vocabulary, Live classes, Doubt solving, Recorded lectures, PDF notes, MCQs और PYQs। Million Minds English App पर।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 5,
+  "path": "PR24",
+  "publish_at": "2026-11-04T21:00:00+05:30"
+ },
+ {
+  "id": "PR25",
+  "day": 25,
+  "time": "21:00",
+  "caption": "UPTGT (8000+ topicwise MCQs, 30 full-length tests) और UPPGT (6000+ topicwise MCQs, 15 full-length tests) English MCQ Test Series 2026-27, Million Minds English App पर।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR25",
+  "publish_at": "2026-11-05T21:00:00+05:30"
+ },
+ {
+  "id": "PR26",
+  "day": 26,
+  "time": "21:00",
+  "caption": "GS 30/30 MCQs Test Series: 30 चुने हुए MCQs, time-bound practice और score analysis। Million Minds English App पर।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR26",
+  "publish_at": "2026-11-06T21:00:00+05:30"
+ },
+ {
+  "id": "PR27",
+  "day": 27,
+  "time": "21:00",
+  "caption": "UPTGT/PGT Grammar & Vocabulary Crash Course: 100 दिन, study material और recorded lectures।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR27",
+  "publish_at": "2026-11-07T21:00:00+05:30"
+ },
+ {
+  "id": "PR28",
+  "day": 28,
+  "time": "21:00",
+  "caption": "PGT Super Revision Batch: English (Language + Literature) + GS/GK 30 MCQs, Live + Recorded classes। आज ही शुरू करें, revision का समय कम है।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR28",
+  "publish_at": "2026-11-08T21:00:00+05:30"
+ },
+ {
+  "id": "PR29",
+  "day": 29,
+  "time": "21:00",
+  "caption": "GS 30/30 Course: UPTGT, PGT, Principal Exam 2026-27 के लिए Live class और free content।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR29",
+  "publish_at": "2026-11-09T21:00:00+05:30"
+ },
+ {
+  "id": "PR30",
+  "day": 30,
+  "time": "21:00",
+  "caption": "Daily Current Affairs: YouTube पर रोज़ सुबह 7 बजे, बिल्कुल फ्री।\n\nUPESSC की परीक्षा में GS/GK के 30 MCQs अनिवार्य हैं, इसलिए GS 30/30 हर तैयारी के साथ रखें। सारे लिंक प्रोफ़ाइल में, linktr.ee/examclue\n\n#ExamClue #MillionMindsEnglish #GS3030 #UPTGT #UPPGT #UPESSC #GSGK #DailyCurrentAffairs",
+  "images": 4,
+  "path": "PR30",
+  "publish_at": "2026-11-10T21:00:00+05:30"
  }
 ]
