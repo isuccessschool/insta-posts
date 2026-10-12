@@ -1,0 +1,19 @@
+name: post-to-instagram
+on:
+  schedule: [{cron: "*/15 * * * *"}]
+  workflow_dispatch:
+permissions: {contents: write}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 publish.py
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IMG_BASE: https://raw.githubusercontent.com/${{ github.repository }}/main
+      - run: |
+          git config user.name bot; git config user.email bot@users.noreply.github.com
+          git add state.json || true
+          git diff --cached --quiet || (git commit -m "update state" && git push)
