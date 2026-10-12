@@ -23,7 +23,7 @@ def publish(p):
     uid=os.environ["IG_USER_ID"]; base=os.environ["IMG_BASE"].rstrip("/")
     kids=[]
     for k in range(1,p["images"]+1):
-        r=api(f"/{uid}/media",{"image_url":f"{base}/{p['id']}/{k:02d}.jpg","is_carousel_item":"true"},True)
+        r=api(f"/{uid}/media",{"image_url":f"{base}/{p['path']}/{k:02d}.jpg","is_carousel_item":"true"},True)
         kids.append(r["id"])
     for c in kids: wait(c)
     r=api(f"/{uid}/media",{"media_type":"CAROUSEL","children":",".join(kids),"caption":p["caption"]},True)
