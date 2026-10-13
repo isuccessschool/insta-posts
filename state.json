@@ -8,5 +8,6 @@
  "D02_M": "posted 18096679439662389",
  "D02_R": "posted 17914389624532669",
  "D02_A": "failed: {\"error\":{\"message\":\"An unknown error has occurred.\",\"type\":\"OAuthException\",\"code\":1,\"fbtrace_id\":\"ARuVjZnG4qBKECddafuITPW\"}}",
- "D02_Q": "posted 18137384935653176"
+ "D02_Q": "posted 18137384935653176",
+ "D02_E": "posted 18001725776806132"
 }
