@@ -1,10 +1,11 @@
 """Instagram auto-publisher (Instagram API with Instagram Login). Runs every 15 min via GitHub Actions.
 Env: IG_TOKEN, IG_USER_ID, IMG_BASE (e.g. https://raw.githubusercontent.com/USER/REPO/main/images). DRY_RUN=1 to test."""
-import json,os,sys,time,datetime as dt,urllib.request,urllib.parse
+import time,json,os,sys,time,datetime as dt,urllib.request,urllib.parse
 IST=dt.timezone(dt.timedelta(hours=5,minutes=30))
 G="https://graph.instagram.com/v21.0"
 DRY=os.environ.get("DRY_RUN")=="1"
-MAX_LATE_H=4
+MAX_LATE_H=14  # GitHub cron is often delayed by hours; keep a long catch-up window
+MAX_PER_RUN=3
 def api(path,params=None,post=False):
     p=dict(params or {}); p["access_token"]=os.environ.get("IG_TOKEN","")
     data=urllib.parse.urlencode(p).encode()
@@ -32,7 +33,7 @@ def publish(p):
 def main():
     posts=json.load(open("schedule.json"))   # made by make_schedule.py
     state=json.load(open("state.json")) if os.path.exists("state.json") else {}
-    now=dt.datetime.now(IST); changed=False
+    now=dt.datetime.now(IST); changed=False; done=0
     for p in posts:
         if p["id"] in state: continue
         t=dt.datetime.fromisoformat(p["publish_at"])
@@ -44,6 +45,8 @@ def main():
             mid=publish(p); state[p["id"]]="posted "+mid; changed=True; print("POSTED",p["id"],mid)
         except Exception as e:
             print("FAILED",p["id"],e); state[p["id"]]="failed: "+str(e)[:200]; changed=True
-        break   # one post per run keeps it safe
+        done+=1
+        if done>=MAX_PER_RUN: break
+        time.sleep(60)
     if changed: json.dump(state,open("state.json","w"),indent=1)
 main()
