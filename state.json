@@ -191,5 +191,6 @@
  "B2_D34_T": "posted 18428155048159134",
  "B2_D34_P": "posted 18018422141969847",
  "B2_D34_E": "posted 17913379767485340",
- "PR34": "posted 18139510939650476"
+ "PR34": "posted 18139510939650476",
+ "B2_D35_M": "failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not "
 }
