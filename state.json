@@ -248,5 +248,7 @@
  "B2_D42_M": "posted 18184296421436841",
  "RP03A": "failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ",
  "B2_D42_R": "posted 17891630652504824",
- "B2_D42_A": "posted 18086741195723718"
+ "B2_D42_A": "posted 18086741195723718",
+ "B2_D42_T": "posted 18346104841278826",
+ "RP03B": "posted 17917274877540644"
 }
