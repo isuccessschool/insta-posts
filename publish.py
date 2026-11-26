@@ -22,6 +22,10 @@ def wait(cid):
     raise RuntimeError("container timeout")
 def publish(p):
     uid=os.environ["IG_USER_ID"]; base=os.environ["IMG_BASE"].rstrip("/")
+    if p["images"]==1:  # single image post
+        r=api(f"/{uid}/media",{"image_url":f"{base}/{p['path']}/01.jpg","caption":p["caption"]},True)
+        wait(r["id"])
+        return api(f"/{uid}/media_publish",{"creation_id":r["id"]},True)["id"]
     kids=[]
     for k in range(1,p["images"]+1):
         r=api(f"/{uid}/media",{"image_url":f"{base}/{p['path']}/{k:02d}.jpg","is_carousel_item":"true"},True)
